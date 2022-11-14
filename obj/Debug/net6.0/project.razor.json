@@ -16331,6 +16331,11 @@
       "FilePath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
