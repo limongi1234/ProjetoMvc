@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "C:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "C:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\ProjetoMVC.csproj",
         "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config",
