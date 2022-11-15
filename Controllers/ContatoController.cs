@@ -85,5 +85,16 @@ namespace ProjetoMVC.Controllers
 
             return View(contato);
         }
+        
+        [HttpPost]
+        public IActionResult Deletar(Contato contato)
+        {
+            var contatoBanco = _context.Contatos.Find(contato.Id);
+
+            _context.Contatos.Remove(contatoBanco);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
