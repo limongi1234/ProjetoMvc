@@ -60,7 +60,7 @@ namespace ProjetoMVC.Controllers
             contatoBanco.Telefone = contato.Telefone;
             contatoBanco.Ativo = contato.Ativo;
 
-            _context.Contatos.Update(contato);
+            _context.Contatos.Update(contatoBanco);
             _context.SaveChanges();
 
             return RedirectToAction(nameof(Index));
