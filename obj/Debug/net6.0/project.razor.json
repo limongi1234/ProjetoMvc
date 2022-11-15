@@ -16298,6 +16298,11 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Renato\\Desktop\\bkc nt\\Documents\\C#\\ProjetoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
