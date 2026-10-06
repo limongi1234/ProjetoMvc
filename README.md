@@ -1,6 +1,6 @@
 # ProjetoMVC — Agenda de Contatos
 
-Aplicação web **ASP.NET Core MVC** com **Entity Framework Core** e **SQL Server** para cadastrar, listar, editar e excluir contatos. Projeto desenvolvido durante a trilha .NET da DIO.
+Aplicação web **ASP.NET Core MVC** com **Entity Framework Core** e **SQL Server** para cadastrar, listar, editar e excluir contatos. Projeto desenvolvido acompanhando as aulas da trilha .NET da DIO, seguindo a implementação feita pelo professor.
 
 ## Tecnologias
 
